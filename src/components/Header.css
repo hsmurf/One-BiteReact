@@ -20,7 +20,7 @@
   justify-content: flex-start;
 }
 
-.Header .header_center {
+.Header .header_right {
   width: 25%;
   justify-content: flex-end;
 }
